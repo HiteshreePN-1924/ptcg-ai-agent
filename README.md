@@ -51,4 +51,3 @@ The agent evaluates:
 
 ```bash
 python main.py
-python main.py
